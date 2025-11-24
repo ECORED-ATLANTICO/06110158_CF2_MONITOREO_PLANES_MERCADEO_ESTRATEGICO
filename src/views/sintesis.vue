@@ -2,7 +2,13 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu tincidunt erat. Fusce cursus mauris in nulla egestas vulputate. Phasellus viverra accumsan libero, sed luctus diam maximus euismod. Mauris sem risus, tincidunt vel libero in, lobortis commodo ante. Sed pulvinar luctus orci in rhoncus. Nulla ut dapibus risus, ac tempor est. Donec nulla augue, vehicula quis malesuada vitae, fermentum non nisi. Donec tincidunt nibh a magna bibendum rutrum.
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-8.col-lg-5.text-center
+        figure
+          img.mb-4.mb-lg-0(src="@/assets/curso/img-sintesis.png", alt="Ícono síntesis", data-aos="fade-up")
+      .col-lg-7
+        p El Componente Formativo CF02 desarrolla las competencias necesarias para verificar el progreso de las acciones de mercadeo mediante el uso estratégico del sistema de monitoreo, a lo largo de sus siete capítulos, el aprendiz explora cómo medir resultados, interpretar hallazgos, formular acciones de mejora y documentar propuestas con criterios técnicos, éticos y colaborativos. 
+        p.mb-0 Se abordan temas como el uso de indicadores, la ejecución del monitoreo, la estimación de resultados esperados y la validación con equipos responsables.
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
