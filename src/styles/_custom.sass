@@ -65,6 +65,14 @@ figcaption, caption
   background-repeat: no-repeat
   background-position: center
 
+.bg-color-acento-contenido-ac20
+  background-color: $color-acento-contenido-ac20
+
+.bg-color-primario-p5
+  background-color: $color-primario-p5
+.bg-color-primario-p20
+  background-color: $color-primario-p20
+
 .fullwidth-bg
   position: relative
   z-index: 0
@@ -74,6 +82,11 @@ figcaption, caption
     left: -50px
     position: absolute
     content: url('../assets/curso/temas/tema1/bg-1.png')
+  &--2::after
+    top: 100px
+    left: -50px
+    position: absolute
+    content: url('../assets/curso/temas/tema2/bg-1.png')
 
 .z-2
   position: relative
@@ -156,3 +169,23 @@ figcaption, caption
 
 .barra-avance__boton--regresar span
   color: $white !important
+
+.banner-text
+  border-radius: 20px
+  padding: 30px
+  margin-top: -40px
+  box-shadow: 0px 0px 5px 0px #00000030
+
+@media (min-width: 992px)
+  .banner-text
+    margin-top: -60px
+
+.links-image
+  position: absolute
+  width: 89px
+  left: 0
+  transform: translateX(-50%)
+
+.w-37
+  margin-left: auto
+  width: 37px
