@@ -257,22 +257,114 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: '',
+      tema: 'Métricas de marketing digital.',
+      referencia:
+        'HubSpot. (2024). <em>Las 26 métricas de marketing digital para medir tus resultados.</em>',
+      tipo: 'Articulo',
+      link:
+        'https://blog.hubspot.es/marketing/metricas-para-medir-resultados-de-marketing',
+    },
+    {
+      tema: 'Monitoreo de estrategias de mercadeo.',
+      referencia:
+        'Servicio Nacional de Aprendizaje - SENA. (2024). <em>Informe gerencial sobre monitoreo de estrategias de mercadeo.</em>',
+      tipo: 'Informe',
+      link:
+        'https://www.studocu.com/co/document/servicio-nacional-de-aprendizaje/planes-de-mercadeo/informe-gerencial-sobre-monitoreo-de-estrategias-de-mercadeo/108751423',
+    },
+    {
+      tema: 'Planes de mercadeo.',
+      referencia:
+        'Cámara de Comercio de Bogotá. (2020) Taller: Diseña tu plan de mercadeo - Para creadores (emprendimiento). Taller virtual gratuito.',
+      tipo: 'Taller',
+      link:
+        'https://bibliotecadigital.ccb.org.co/items/db83891b-9135-41d2-82f1-81742cb36c14',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Análisis',
+      significado:
+        'Proceso de descomponer información para comprender causas, efectos y oportunidades de mejora en acciones de mercadeo.',
+    },
+    {
+      termino: '<em>Benchmarking</em>',
+      significado:
+        'Comparación sistemática de indicadores y prácticas con referentes del sector para identificar brechas y buenas prácticas.',
+    },
+    {
+      termino: 'Desempeño',
+      significado:
+        'Nivel de cumplimiento de objetivos establecidos en el plan de mercadeo, medido mediante indicadores específicos.',
+    },
+    {
+      termino: 'Evidencia',
+      significado:
+        'Datos, registros o resultados que respaldan el análisis y la toma de decisiones estratégicas.',
+    },
+    {
+      termino: 'Indicador',
+      significado:
+        'Variable cuantitativa o cualitativa que permite medir el avance, impacto o eficiencia de una acción de mercadeo.',
+    },
+    {
+      termino: 'KPIs (<em>Key Performance Indicator</em>)',
+      significado:
+        'Indicador clave de rendimiento que refleja el éxito de una estrategia o actividad específica.',
+    },
+    {
+      termino: 'Mejora continua',
+      significado:
+        'Enfoque sistemático para optimizar procesos, corregir desviaciones y fortalecer resultados a lo largo del tiempo.',
+    },
+    {
+      termino: 'Monitoreo',
+      significado:
+        'Seguimiento periódico de las acciones y resultados del plan de mercadeo para evaluar su efectividad.',
+    },
+    {
+      termino: 'Objetivo',
+      significado:
+        'Meta específica que se busca alcanzar mediante estrategias de mercadeo, alineada con la visión organizacional.',
+    },
+    {
+      termino: 'Seguimiento',
+      significado:
+        'Acción de revisar, registrar y analizar el desarrollo de actividades para asegurar su cumplimiento y ajuste oportuno.',
     },
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Gibson, K. (2024). <em>7 Marketing KPIs You Should Know & How to Measure Them</em>. Harvard Business School Online.',
+      link: 'https://online.hbs.edu/blog/post/marketing-kpis',
+    },
+    {
+      referencia:
+        'González Betancourt, M. C. (2016). <em>Acciones y estrategias de marketing para mejorar tus ventas</em>. Semrush Blog.',
+      link:
+        'https://es.semrush.com/blog/acciones-marketing-mejorar-estrategia/',
+    },
+    {
+      referencia:
+        'ND Marketing Digital. (2023). <em>Guía completa sobre la elaboración de acciones de mejora</em>.',
+      link:
+        'https://ndmarketingdigital.com/como-elaborar-una-accion-de-mejora/',
+    },
+    {
+      referencia:
+        'Pendino, S. (2024). <em>KPIs de marketing: guía completa</em>.',
+      link: 'https://sebastianpendino.com/kpis-de-marketing-guia/',
+    },
+    {
+      referencia:
+        'Smartsheet. (2024). <em>Ejemplos y plantillas gratuitas de planes de marketing del mundo real</em>.',
+      link: 'https://es.smartsheet.com/content/marketing-plan-examples',
+    },
+    {
+      referencia:
+        'VirtualMailer. (2023). <em>Plan de mejora del marketing para el éxito</em>.',
+      link: 'https://virtualmailer.com.ar/plan-de-mejora-marketing/',
     },
   ],
   creditos: [
