@@ -52,7 +52,7 @@
               img(data-aos="fade-down")(src="@/assets/curso/temas/tema3/4.png", alt="Imagen decorativa")
           .crd_hover_txt--body.bg-color-primario-p5
             h4.mb-4.text-center Google Analytics
-            p.text-center Para monitorear tráfico web, comportamiento del usuario y conversiones.
+            p.text-center Para monitorear tráfico <em>web</em>, comportamiento del usuario y conversiones.
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -127,21 +127,21 @@
         p Los formatos de evaluación son documentos o plantillas que permiten registrar los resultados obtenidos, compararlos con las metas y generar observaciones, algunos formatos comunes incluyen:
         .p-4.bg-color-secundario-s5.rounded-4
           .row.align-items-center
-            .col-7
+            .col-md-7
               ul.lista-ul--color
-                li 
+                li.d-flex 
                   i.fa-solid.fa-circle-check
                   | Ficha de seguimiento por acción.
-                li
+                li.d-flex
                   i.fa-solid.fa-circle-check
                   | Informe de resultados por canal.
-                li
+                li.d-flex
                   i.fa-solid.fa-circle-check
                   | Matriz de cumplimiento de KPIs.
-                li
+                li.d-flex
                   i.fa-solid.fa-circle-check
                   | Reporte de desviaciones y ajustes.
-            .col-5
+            .d-none.d-md-block.col-md-5
               figure
                 img.w-89(src="@/assets/curso/temas/tema3/12.svg" alt="Imagen ilustrativa" data-aos="fade-up")
 

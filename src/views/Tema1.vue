@@ -50,7 +50,7 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/4.png" alt="Imagen ilustrativa")
       .col-lg-9.col-xl-8
         p La medición de resultados se refiere al proceso sistemático de recolectar, analizar y valorar información sobre el desempeño de una acción o conjunto de acciones (Kotler & Keller, 2016), su propósito principal es determinar si las estrategias implementadas están generando los efectos deseados, permitiendo tomar decisiones informadas para ajustar, escalar o rediseñar las acciones.
-        p.mb-0 En el contexto del mercadeo estratégico, medir resultados implica observar el comportamiento del mercado, la respuesta de los consumidores, el cumplimiento de metas y la eficiencia de los recursos utilizados; esta práctica fomenta la transparencia, la rendición de cuentas y la mejora continua. Por ejemplo, una empresa de cosméticos que lanza una campaña digital puede medir su éxito a través del aumento en visitas al sitio web, interacciones en redes sociales y ventas generadas durante el periodo de promoción.
+        p.mb-0 En el contexto del mercadeo estratégico, medir resultados implica observar el comportamiento del mercado, la respuesta de los consumidores, el cumplimiento de metas y la eficiencia de los recursos utilizados; esta práctica fomenta la transparencia, la rendición de cuentas y la mejora continua. Por ejemplo, una empresa de cosméticos que lanza una campaña digital puede medir su éxito a través del aumento en visitas al sitio <em>web</em>, interacciones en redes sociales y ventas generadas durante el periodo de promoción.
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-10.col-xl-8
@@ -183,7 +183,7 @@
               tr
                 td <strong>Analítica digital.</strong>
                 td(colspan="2") Precisa, en tiempo real, visualizable.
-                td(colspan="2") Monitoreo de tráfico web y redes sociales.
+                td(colspan="2") Monitoreo de tráfico <em>web</em> y redes sociales.
               tr
                 td <strong>Matrices comparativas.</strong>
                 td(colspan="2") Sintéticas, comparativas, útiles para benchmarking.
