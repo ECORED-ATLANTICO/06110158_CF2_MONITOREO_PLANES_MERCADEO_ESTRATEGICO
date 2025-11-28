@@ -67,6 +67,8 @@ figcaption, caption
 
 .bg-color-acento-contenido-ac20
   background-color: $color-acento-contenido-ac20
+.bg-color-acento-contenido-ac10
+  background-color: $color-acento-contenido-ac10
 .bg-color-primario-p5
   background-color: $color-primario-p5
 .bg-color-primario-p20
@@ -197,6 +199,10 @@ figcaption, caption
   margin: 0 auto
   width: 89px
 
+.w-125
+  margin: 0 auto
+  width: 125px
+
 .h-73
   max-height: 73px
 
@@ -229,3 +235,24 @@ figcaption, caption
   .crd_hover_txt .crd_hover_txt--body p 
       font-size: 14px
       line-height: 18px
+
+.slyder-a
+  .slyder-a__btn--atrs, .slyder-a__btn--sigt
+    background-color: $color-acento-botones
+    border: none
+    box-shadow: none
+    background-image: url(../assets/componentes/arrow-white.svg)
+
+
+
+  .slyder-a__bullets__item
+    margin: 0 5px
+    background-color: $color-acento-botones
+    border-color: $color-acento-botones
+    opacity: 0.4
+
+    @media screen and (min-width: $bp-min-sm)
+      margin: 0 8px
+
+    &.slyder-a__bullets__item--active
+      opacity: 1
