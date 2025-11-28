@@ -174,7 +174,7 @@
             i.fas.fa-quote-right
           .row.justify-content-center
             .col-lg-11
-              p.bloque-texto-f__texto Monitorear con responsabilidad es reconocer que cada dato representa una decisión, y cada decisión, una oportunidad para servir con excelencia.
+              p.bloque-texto-f__texto Los datos hablan, pero solo quien los interpreta con empatía y visión puede convertirlos en decisiones que transforman.
     
 </template>
 

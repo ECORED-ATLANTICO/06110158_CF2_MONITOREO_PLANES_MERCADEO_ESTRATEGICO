@@ -67,11 +67,12 @@ figcaption, caption
 
 .bg-color-acento-contenido-ac20
   background-color: $color-acento-contenido-ac20
-
 .bg-color-primario-p5
   background-color: $color-primario-p5
 .bg-color-primario-p20
   background-color: $color-primario-p20
+.bg-color-secundario-s5
+  background-color: $color-secundario-s5
 
 .fullwidth-bg
   position: relative
@@ -189,3 +190,37 @@ figcaption, caption
 .w-37
   margin-left: auto
   width: 37px
+
+.w-89
+  margin: 0 auto
+  width: 89px
+
+.crd_hover_txt 
+  position: relative
+  padding: 0
+  overflow: hidden
+  border-radius: 10px
+
+
+.crd_hover_txt:hover .crd_hover_txt--body 
+  transition: all .3s ease-in-out
+  transform: translateY(0)
+  background-color: $color-acento-contenido-ac20
+  h4, p
+    color: $color-sistema-texto
+
+
+.crd_hover_txt .crd_hover_txt--body 
+  position: absolute
+  padding: 18px 13px 30px
+  bottom: 0
+  transition: all .3s ease-in-out
+  transform: translateY(calc(100% - 65px))
+  background-color: $color-acento-contenido-ac20
+  h4, p
+    font-size: 16px
+
+@media (min-width: 1200px) and (max-width:1400px) 
+  .crd_hover_txt .crd_hover_txt--body p 
+      font-size: 14px
+      line-height: 18px
