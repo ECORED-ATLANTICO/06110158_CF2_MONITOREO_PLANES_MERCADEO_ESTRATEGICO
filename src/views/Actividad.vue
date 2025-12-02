@@ -17,8 +17,8 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Verifica, interpreta y mejora.',
-      titulo: 'Cuestionario',
+      tema: 'Análisis estratégico de acciones de mercadeo',
+      titulo: 'Análisis estratégico de acciones de mercadeo',
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión del aprendiz sobre los conceptos, procesos y criterios técnicos relacionados con la verificación del progreso de las acciones de mercadeo, el sistema de monitoreo y las oportunidades de mejora, mediante afirmaciones tipo Falso/Verdadero que integran los contenidos del CF02',
       barajarPreguntas: true,

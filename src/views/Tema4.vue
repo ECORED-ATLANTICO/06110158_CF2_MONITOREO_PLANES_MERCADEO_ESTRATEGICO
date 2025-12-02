@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Ejecución del sistema de monitoreo
+      h1 Interpretación de resultados
 
     img(data-aos="fade-up")(src="@/assets/curso/temas/tema4/1.png", alt="Imagen decorativa")
 
@@ -122,44 +122,43 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 4.
           span Técnicas de comunicación de hallazgos
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema4/3-mob.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src='@/assets/curso/temas/tema4/3.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema4/3-mob.svg', alt='La figura muestra cuatro técnicas para la comunicación de hallazgos.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema4/3.svg', alt='La figura muestra cuatro técnicas para la comunicación de hallazgos.')
         figcaption <strong>Fuente:</strong> Adaptado de Kotler & Keller, 2016.
 
-    .row.justify-content-center.align-items-center
-      .col-xl-10
-        .titulo-sexto.color-acento-contenido.z-2
-          h5 Tabla 7.
-          span Ejemplo de semáforo de desempeño
-        .tabla-a.color-secundario.z-2.mb-5
-          table
-            caption <strong>Fuente:</strong> SENA, 2025.
-            thead(style="background-color: #FFF3EF;")
-              tr
-                th KPI
-                th Resultado obtenido
-                th Meta esperada
-                th Semáforo
-                th Recomendación
-            tbody
-              tr
-                td <strong>Tasa de conversión.</strong>
-                td 9 %
-                td 12 %
-                td 🔴 Rojo.
-                td Rediseñar <em>landing page</em>.
-              tr
-                td <strong>ROI.</strong>
-                td $ 6.200.000
-                td $ 5.000.000
-                td 🟢 Verde.
-                td Escalar inversión.
-              tr
-                td <strong>Engagement en redes.</strong>
-                td 2.950
-                td 3.000
-                td 🟡 Amarillo.
-                td Ajustar horario de publicación.
+
+    .titulo-sexto.color-acento-contenido.z-2
+      h5 Tabla 7.
+      span Ejemplo de semáforo de desempeño
+    .tabla-a.color-secundario.z-2.mb-5
+      table
+        caption <strong>Fuente:</strong> SENA, 2025.
+        thead(style="background-color: #FFF3EF;")
+          tr
+            th KPI
+            th Resultado obtenido
+            th Meta esperada
+            th Semáforo
+            th Recomendación
+        tbody
+          tr
+            td <strong>Tasa de conversión.</strong>
+            td 9 %
+            td 12 %
+            td 🔴 Rojo.
+            td Rediseñar <em>landing page</em>.
+          tr
+            td <strong>ROI.</strong>
+            td $ 6.200.000
+            td $ 5.000.000
+            td 🟢 Verde.
+            td Escalar inversión.
+          tr
+            td <strong><em>Engagement</em> en redes.</strong>
+            td 2.950
+            td 3.000
+            td 🟡 Amarillo.
+            td Ajustar horario de publicación.
 
     .row.justify-content-center
       .col-xl-10

@@ -28,31 +28,31 @@
         .tarjeta.bg-color-acento-contenido-ac10.p-4
           SlyderA(tipo="b")
             .row.align-items-center.justify-content-center
-              .col-sm-10.col-lg-7
+              .col-sm-7
                 h5.mb-4 Humanos
-                p.mb-0 Disponibilidad de personal capacitado.
-              .col-sm-8.col-lg-3.col-xl-3
+                p.mb-4.mb-sm-0 Disponibilidad de personal capacitado.
+              .col-sm-3
                 figure
                   img.w-125(src='@/assets/curso/temas/tema6/3.svg', alt='Imagen ilustrativa')
             .row.align-items-center.justify-content-center
-              .col-sm-10.col-lg-7
+              .col-sm-7
                 h5.mb-4 Financieros
-                p.mb-0 Presupuesto asignado.
-              .col-sm-8.col-lg-3.col-xl-3
+                p.mb-4.mb-sm-0 Presupuesto asignado.
+              .col-sm-3
                 figure
                   img.w-125(src='@/assets/curso/temas/tema6/4.svg', alt='Imagen ilustrativa')
             .row.align-items-center.justify-content-center
-              .col-sm-10.col-lg-7
+              .col-sm-7
                 h5.mb-4 Tecnológicos
-                p.mb-0 Herramientas, plataformas, software.
-              .col-sm-8.col-lg-3.col-xl-3
+                p.mb-4.mb-sm-0 Herramientas, plataformas, <em>software</em>.
+              .col-sm-3
                 figure
                   img.w-125(src='@/assets/curso/temas/tema6/5.svg', alt='Imagen ilustrativa')
             .row.align-items-center.justify-content-center
-              .col-sm-10.col-lg-7
+              .col-sm-7
                 h5.mb-4 Temporales
-                p.mb-0 Tiempo requerido para ejecutar la acción.
-              .col-sm-8.col-lg-3.col-xl-3
+                p.mb-4.mb-sm-0 Tiempo requerido para ejecutar la acción.
+              .col-sm-3
                 figure
                   img.w-125(src='@/assets/curso/temas/tema6/6.svg', alt='Imagen ilustrativa')
           
@@ -71,10 +71,10 @@
             th Tiempo estimado
         tbody
           tr
-            td <strong>Rediseño de landing page.</strong>
+            td <strong>Rediseño de <em>landing page</em>.</strong>
             td Equipo UX interno.
             td $ 2.000.000
-            td CMS y hosting disponibles.
+            td CMS y <em>hosting</em> disponibles.
             td 3 semanas.
           tr
             td <strong>Segmentación de mensajes.</strong>
@@ -112,7 +112,7 @@
             th Fuente de estimación
         tbody
           tr
-            td <strong>Rediseño de landing page.</strong>
+            td <strong>Rediseño de <em>landing page</em>.</strong>
             td Tasa de conversión.
             td 9 %
             td 12 %
@@ -178,14 +178,14 @@
             th Estado final
         tbody
           tr
-            td <strong>Rediseño de landing page.</strong>
+            td <strong>Rediseño de <em>landing page</em>.</strong>
             td UX + TI.
             td Reunión técnica.
             td Simplificar formulario.
             td Aprobada.
           tr
             td <strong>Segmentación de mensajes.</strong>
-            td Marketing + CRM.
+            td <em>Marketing</em> + CRM.
             td Taller colaborativo.
             td Incluir nuevos perfiles.
             td Aprobada.

@@ -83,7 +83,7 @@
           tr
             td <strong>Digitales.</strong>
             td(colspan="2") Segmentadas, medibles, interactivas.
-            td(colspan="2") Publicidad en Instagram con influencers.
+            td(colspan="2") Publicidad en Instagram con <em>influencers</em>.
 
     Separador
     .row.justify-content-center
@@ -100,9 +100,9 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span Ejemplos de objetivos en acciones de mercadeo 
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema2/8-mob.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src='@/assets/curso/temas/tema2/8.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
-        figcaption <strong>Fuente:</strong> Adaptado de Kotler & Keller, 2016.
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema2/8-mob.svg', alt='En la figura se observa algunos ejemplos de objetivos en acciones de mercadeo.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema2/8.svg', alt='En la figura se observa algunos ejemplos de objetivos en acciones de mercadeo.')
+        figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .row.justify-content-center.align-items-center
       .col-10.col-md-5.col-xl-4
@@ -113,7 +113,7 @@
         p.mb-0 La alineación entre acciones y objetivos garantiza coherencia estratégica y facilita la evaluación posterior, si las acciones no responden a los objetivos del plan, se corre el riesgo de dispersar recursos y perder impacto.
 
     Separador
-    #t_2_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.text-center
+    #t_2_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
       h3 2.3 Relación con el plan de mercadeo
 
     .row.justify-content-center.mb-5

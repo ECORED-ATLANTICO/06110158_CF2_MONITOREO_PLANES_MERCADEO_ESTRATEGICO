@@ -77,10 +77,10 @@
             td <strong>Campaña en Instagram.</strong>
             td 4.200 interacciones
             td 12 %
-            td Bajo engagement.
+            td Bajo <em>engagement</em>.
             td Segmentación genérica.
           tr
-            td <strong>Email marketing.</strong>
+            td <strong><em>Email marketing.</em></strong>
             td 18 % apertura
             td $ 5.000.000
             td Buen desempeño.
@@ -132,7 +132,7 @@
         .p-4.p-lg-0.bg-box.rounded-4
           .row.align-items-center.justify-content-center
             .col-lg-9
-              p.mb-0 <strong>Ejemplo aplicado</strong>. Tras detectar baja conversión en su landing page, una empresa de tecnología decide rediseñar el contenido, incluir testimonios de clientes y simplificar el formulario de registro, en la siguiente campaña, la tasa de conversión aumenta un 35 %.
+              p.mb-0 <strong>Ejemplo aplicado</strong>. Tras detectar baja conversión en su <em>landing page</em>, una empresa de tecnología decide rediseñar el contenido, incluir testimonios de clientes y simplificar el formulario de registro, en la siguiente campaña, la tasa de conversión aumenta un 35 %.
             .d-none.d-lg-block.col-lg-2
               figure
                 img(src="@/assets/curso/temas/tema5/8.png" alt="Imagen ilustrativa" data-aos="fade-up")
@@ -164,7 +164,7 @@
             td 1 semana.
             td Número de inscritos.
           tr
-            td <strong>Baja conversión <em>web</em>.</strong>
+            td <strong>Baja conversión web.</strong>
             td Optimizar diseño de <em>landing page</em>.
             td Equipo UX/UI.
             td 3 semanas.
@@ -180,25 +180,25 @@
     
     .row.justify-content-center.align-items-stretch.mb-5.z-2
       .col-6.col-sm-3.col-xl-2.mb-3.mb-sm-0
-        .py-4.px-1.bg-color-terciario-t10.rounded-4.text-center.h-100(data-aos="fade-up")
+        .py-4.px-1.bg-color-acento-contenido-ac20.rounded-4.text-center.h-100(data-aos="fade-up")
           .d-flex.flex-column.align-items-center
             figure
               img.h-73.mb-3(src="@/assets/curso/temas/tema5/9.svg" alt="Icono de optimización")
             span Por qué es necesaria.
       .col-6.col-sm-3.col-xl-2.mb-3.mb-sm-0
-        .py-4.px-1.bg-color-terciario-t10.rounded-4.text-center.h-100(data-aos="fade-up")
+        .py-4.px-1.bg-color-acento-contenido-ac20.rounded-4.text-center.h-100(data-aos="fade-up")
           .d-flex.flex-column.align-items-center
             figure
               img.h-73.mb-3(src="@/assets/curso/temas/tema5/10.svg" alt="Icono de optimización")
             span Qué evidencia la sustenta.
       .col-6.col-sm-3.col-xl-2.mb-3.mb-sm-0
-        .py-4.px-1.bg-color-terciario-t10.rounded-4.text-center.h-100(data-aos="fade-up")
+        .py-4.px-1.bg-color-acento-contenido-ac20.rounded-4.text-center.h-100(data-aos="fade-up")
           .d-flex.flex-column.align-items-center
             figure
               img.h-73.mb-3(src="@/assets/curso/temas/tema5/11.svg" alt="Icono de optimización")
             span Qué impacto se espera.
       .col-6.col-sm-3.col-xl-2.mb-3.mb-sm-0
-        .py-4.px-1.bg-color-terciario-t10.rounded-4.text-center.h-100(data-aos="fade-up")
+        .py-4.px-1.bg-color-acento-contenido-ac20.rounded-4.text-center.h-100(data-aos="fade-up")
           .d-flex.flex-column.align-items-center
             figure
               img.h-73.mb-3(src="@/assets/curso/temas/tema5/12.svg" alt="Icono de optimización")
@@ -209,7 +209,7 @@
         .p-4.p-lg-3.bg-box.rounded-4
           .row.align-items-center.justify-content-center
             .col-lg-9
-              p.mb-0 <strong>Ejemplo aplicado</strong>. La propuesta de rediseñar la <em>landing page</em> se justifica porque el análisis de comportamiento <em>web</em> muestra una alta tasa de rebote. Se espera que, al mejorar la experiencia del usuario, se incremente la conversión y se reduzca el abandono.
+              p.mb-0 <strong>Ejemplo aplicado</strong>. La propuesta de rediseñar la <em>landing page</em> se justifica porque el análisis de comportamiento web muestra una alta tasa de rebote. Se espera que, al mejorar la experiencia del usuario, se incremente la conversión y se reduzca el abandono.
             .d-none.d-lg-block.col-lg-2
               figure
                 img(src="@/assets/curso/temas/tema5/13.png" alt="Imagen ilustrativa" data-aos="fade-up")
@@ -232,7 +232,7 @@
               tr
                 td <strong>Rediseño de mensajes.</strong>
                 td Baja interacción por perfil.
-                td Mayor engagement.
+                td Mayor <em>engagement</em>.
                 td Tiempo de redacción y diseño.
               tr
                 td <strong>Ampliación de canales.</strong>
@@ -243,7 +243,7 @@
                 td <strong>Optimización de <em>landing</em>.</strong>
                 td Alta tasa de rebote.
                 td Mayor conversión.
-                td Apoyo técnico y diseño <em>web</em>.
+                td Apoyo técnico y diseño web.
 
     p.mb-5 La justificación técnica fortalece la credibilidad y viabilidad de cada propuesta.
 

@@ -39,8 +39,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 5.
           span Elementos clave en la presentación de propuestas
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema7/4-mob.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src='@/assets/curso/temas/tema7/4.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema7/4-mob.svg', alt='La figura muestra seis elementos claves en la presentación de propuestas.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema7/4.svg', alt='La figura muestra seis elementos claves en la presentación de propuestas.')
         figcaption <strong>Fuente:</strong> SENA, 2025.
 
     .fullwidth-bg.fullwidth-bg--2
@@ -88,7 +88,7 @@
 
         .p-4.bg-color-secundario-s10.rounded-3.mt-4
           .d-flex.align-items-center.justify-content-around
-            <strong>Veamos un ejemplo de un informe ejecutivo:</strong>
+            <strong>A continuación un ejemplo de un informe ejecutivo:</strong>
             a.boton.color-acento-botones(:href="obtenerLink('/downloads/ejemplo01.pdf')" target="_blank")
               span <strong>Ejemplo</strong>
               i.fa-solid.fa-link

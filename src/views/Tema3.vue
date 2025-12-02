@@ -32,10 +32,10 @@
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-9
         .titulo-sexto.color-acento-contenido.mb-4
-          h5 Figura 4.
-          span Técnicas de comunicación de hallazgos
-        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema3/3-mob.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
-        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src='@/assets/curso/temas/tema3/3.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
+          h5 Figura 3.
+          span Ejemplos de KPIs aplicados a acciones de mercadeo
+        img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema3/3-mob.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
+        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema3/3.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
         figcaption <strong>Fuente:</strong> Adaptado de Chaffey & Ellis-Chadwick, 2019.
 
     Separador
@@ -52,7 +52,7 @@
               img(data-aos="fade-down")(src="@/assets/curso/temas/tema3/4.png", alt="Imagen decorativa")
           .crd_hover_txt--body.bg-color-primario-p5
             h4.mb-4.text-center Google Analytics
-            p.text-center Para monitorear tráfico <em>web</em>, comportamiento del usuario y conversiones.
+            p.text-center Para monitorear tráfico web, comportamiento del usuario y conversiones.
 
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -145,46 +145,43 @@
               figure
                 img.w-89(src="@/assets/curso/temas/tema3/12.svg" alt="Imagen ilustrativa" data-aos="fade-up")
 
-    .row.justify-content-center.z-2
+    .row.justify-content-center.z-2.mb-5
       .col-xl-10
         .cajon.color-secundario.p-4
           p.mb-0 Estos formatos deben ser claros, accesibles y adaptables, por ejemplo, una empresa de servicios puede usar una matriz de cumplimiento para comparar el número de citas agendadas con las efectivamente realizadas, identificando brechas y causas.
 
-
-    .row.justify-content-center.align-items-center
-      .col-xl-10
-        .titulo-sexto.color-acento-contenido.z-2
-          h5 Tabla 4.
-          span Ejemplo de matriz de cumplimiento de KPIs
-        .tabla-a.color-secundario.z-2.mb-5
-          table
-            caption <strong>Fuente:</strong> SENA, 2025.
-            thead(style="background-color: #FFF3EF;")
-              tr
-                th Acción de mercadeo
-                th KPI esperado
-                th Resultado obtenido
-                th Desviación
-                th Observaciones
-            tbody
-              tr
-                td <strong>Campaña en redes sociales.</strong>
-                td 5.000 interacciones.
-                td 4.200
-                td - 800
-                td Ajustar horario de publicación.
-              tr
-                td <strong>Email marketing.</strong>
-                td 15 % tasa de apertura.
-                td 18 %
-                td + 3 %
-                td Segmentación efectiva.
-              tr
-                td <strong>Evento presencial.</strong>
-                td 100 asistentes.
-                td 85.
-                td - 15
-                td Reforzar convocatoria previa.
+    .titulo-sexto.color-acento-contenido.z-2
+      h5 Tabla 4.
+      span Ejemplo de matriz de cumplimiento de KPIs
+    .tabla-a.color-secundario.z-2.mb-5
+      table
+        caption <strong>Fuente:</strong> SENA, 2025.
+        thead(style="background-color: #FFF3EF;")
+          tr
+            th Acción de mercadeo
+            th KPI esperado
+            th Resultado obtenido
+            th Desviación
+            th Observaciones
+        tbody
+          tr
+            td <strong>Campaña en redes sociales.</strong>
+            td 5.000 interacciones.
+            td 4.200
+            td - 800
+            td Ajustar horario de publicación.
+          tr
+            td <strong><em>Email marketing.</em></strong>
+            td 15 % tasa de apertura.
+            td 18 %
+            td + 3 %
+            td Segmentación efectiva.
+          tr
+            td <strong>Evento presencial.</strong>
+            td 100 asistentes.
+            td 85.
+            td - 15
+            td Reforzar convocatoria previa.
 
     .row.justify-content-center
       .col-xl-10

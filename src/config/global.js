@@ -241,7 +241,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/CFA02_06110158.zip',
       },
       {
         icono: 'fas fa-download',
@@ -257,7 +257,7 @@ export default {
   },
   complementario: [
     {
-      tema: 'Métricas de marketing digital.',
+      tema: 'Métricas de <em>marketing</em> digital.',
       referencia:
         'HubSpot. (2024). <em>Las 26 métricas de marketing digital para medir tus resultados.</em>',
       tipo: 'Articulo',
@@ -347,7 +347,7 @@ export default {
     },
     {
       referencia:
-        'ND Marketing Digital. (2023). <em>Guía completa sobre la elaboración de acciones de mejora</em>.',
+        'ND <em>Marketing</em> Digital. (2023). <em>Guía completa sobre la elaboración de acciones de mejora</em>.',
       link:
         'https://ndmarketingdigital.com/como-elaborar-una-accion-de-mejora/',
     },

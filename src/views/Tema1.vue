@@ -50,14 +50,14 @@
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema1/4.png" alt="Imagen ilustrativa")
       .col-lg-9.col-xl-8
         p La medición de resultados se refiere al proceso sistemático de recolectar, analizar y valorar información sobre el desempeño de una acción o conjunto de acciones (Kotler & Keller, 2016), su propósito principal es determinar si las estrategias implementadas están generando los efectos deseados, permitiendo tomar decisiones informadas para ajustar, escalar o rediseñar las acciones.
-        p.mb-0 En el contexto del mercadeo estratégico, medir resultados implica observar el comportamiento del mercado, la respuesta de los consumidores, el cumplimiento de metas y la eficiencia de los recursos utilizados; esta práctica fomenta la transparencia, la rendición de cuentas y la mejora continua. Por ejemplo, una empresa de cosméticos que lanza una campaña digital puede medir su éxito a través del aumento en visitas al sitio <em>web</em>, interacciones en redes sociales y ventas generadas durante el periodo de promoción.
+        p.mb-0 En el contexto del mercadeo estratégico, medir resultados implica observar el comportamiento del mercado, la respuesta de los consumidores, el cumplimiento de metas y la eficiencia de los recursos utilizados; esta práctica fomenta la transparencia, la rendición de cuentas y la mejora continua. Por ejemplo, una empresa de cosméticos que lanza una campaña digital puede medir su éxito a través del aumento en visitas al sitio web, interacciones en redes sociales y ventas generadas durante el periodo de promoción.
 
     .row.justify-content-center.align-items-center.z-2
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 1.
           span Propósitos clave de la medición de resultados en mercadeo 
-        img.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/5.svg', alt='en la figura se muestra como es el layout tipo Grid (rejilla), desarrollado en un supermercado, supentienda o tienda.')
+        img.mb-2(data-aos="fade-up", src='@/assets/curso/temas/tema1/5.svg', alt='la figura muestra cuales son los propósitos clave de la medición de resultados en mercadeo.')
         figcaption <strong>Fuente:</strong> Adaptado de Kotler & Keller, 2016.
 
     .fullwidth-bg.fullwidth-bg--1
@@ -116,7 +116,7 @@
         .p-4.p-lg-1.bg-box.rounded-4
           .row.align-items-center.justify-content-center
             .col-lg-8
-              p.mb-0 Por ejemplo, si una empresa de ropa detecta que su campaña en Instagram genera más conversiones que en Facebook, puede decidir enfocar sus esfuerzos en ese canal, optimizando recursos y resultados.
+              p.mb-0 Por ejemplo, una empresa de alimentos puede medir resultados cuantitativos en ventas por región, cualitativos en satisfacción del cliente, operativos en tiempos de entrega y estratégicos en posicionamiento frente a competidores.
             .d-none.d-lg-block.col-lg-2
               figure
                 img(src="@/assets/curso/temas/tema1/11.png" alt="Imagen ilustrativa" data-aos="fade-up")
@@ -126,6 +126,8 @@
       .col-xl-10
         #t_1_4.titulo-segundo.color-acento-contenido
           .h2(data-aos="fade-right") 1.4 Técnicas de medición
+
+    p.mb-5 Las técnicas de medición son los métodos utilizados para recolectar y analizar datos. Algunas de las más utilizadas en mercadeo incluyen:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-md-6.col-xl-3   
@@ -139,21 +141,19 @@
           img(src='@/assets/curso/temas/tema1/13.png', alt='imagen decorativa')
           .tarjeta.pt-5.mt-3.shadow.p-4
             h5.mt-5.mb-4.pt-4.text-center Indicadores clave de desempeño (KPIs)
-            p.text-center Permiten obtener datos sobre percepción, satisfacción y comportamiento.
+            p.text-center Métricas que reflejan el cumplimiento de objetivos.
       .col-md-6.col-xl-3   
         .tarjeta-avatar.p-2.mb-4.mb-xl-0
           img(src='@/assets/curso/temas/tema1/14.png', alt='imagen decorativa')
           .tarjeta.pt-5.mt-3.shadow.p-4
             h5.mt-5.mb-4.pt-4.text-center Analítica digital
-            p.text-center Permiten obtener datos sobre percepción, satisfacción y comportamiento.
+            p.text-center Uso de herramientas como Google Analytics para rastrear interacciones en línea.
       .col-md-6.col-xl-3   
         .tarjeta-avatar.p-2.mb-4.mb-xl-0
           img(src='@/assets/curso/temas/tema1/15.png', alt='imagen decorativa')
           .tarjeta.pt-5.mt-3.shadow.p-4
             h5.mt-5.mb-4.pt-4.text-center Matrices comparativas
-            p.text-center Permiten obtener datos sobre percepción, satisfacción y comportamiento.
-
-
+            p.text-center Permiten visualizar el desempeño frente a metas o competidores.
 
     .cajon.color-acento-contenido.p-4.mb-5
       p.mb-0 Cada técnica tiene características particulares. Las encuestas son versátiles y accesibles, los KPIs son precisos y estratégicos, la analítica digital es inmediata y detallada, y las matrices ofrecen una visión comparativa clara.
@@ -183,7 +183,7 @@
               tr
                 td <strong>Analítica digital.</strong>
                 td(colspan="2") Precisa, en tiempo real, visualizable.
-                td(colspan="2") Monitoreo de tráfico <em>web</em> y redes sociales.
+                td(colspan="2") Monitoreo de tráfico web y redes sociales.
               tr
                 td <strong>Matrices comparativas.</strong>
                 td(colspan="2") Sintéticas, comparativas, útiles para benchmarking.
