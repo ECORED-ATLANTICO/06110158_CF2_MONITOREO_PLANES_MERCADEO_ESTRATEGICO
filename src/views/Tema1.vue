@@ -122,10 +122,8 @@
                 img(src="@/assets/curso/temas/tema1/11.png" alt="Imagen ilustrativa" data-aos="fade-up")
 
     Separador
-    .row.justify-content-center
-      .col-xl-10
-        #t_1_4.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 1.4 Técnicas de medición
+    #t_1_4.titulo-segundo.color-acento-contenido
+      .h2(data-aos="fade-right") 1.4 Técnicas de medición
 
     p.mb-5 Las técnicas de medición son los métodos utilizados para recolectar y analizar datos. Algunas de las más utilizadas en mercadeo incluyen:
 
