@@ -142,7 +142,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema6/7.png", alt="Imagen decorativa", data-aos="zoom-in-left")
       .col-lg-6
-        p El diagnóstico es el análisis profundo de los resultados obtenidos, orientado a identificar causas, patrones y oportunidades de mejora, debe considerar:
+        p La pertinencia de una acción se confirma cuando los equipos responsables la comprenden, la aceptan y están en capacidad de ejecutarla, esta validación puede incluir:
         .p-4.bg-color-secundario-s5.rounded-4
           .row.align-items-center
             .col-md-7

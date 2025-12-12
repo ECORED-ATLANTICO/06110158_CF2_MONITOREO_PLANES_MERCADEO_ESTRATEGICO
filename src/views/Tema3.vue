@@ -27,13 +27,13 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/temas/tema3/2.png", alt="Imagen decorativa", data-aos="zoom-in-left")
       .col-lg-7
-        p.mb-0 Los indicadores clave de desempeño (KPIs) son métricas específicas que permiten evaluar el cumplimiento de los objetivos estratégicos, según Chaffey & Ellis-Chadwick (2019), un KPIs debe ser relevante, medible, accionable y alineado con el propósito de la acción. En mercadeo, algunos KPIs comunes incluyen: tasa de conversión, alcance digital, retorno sobre inversión (ROI), tasa de fidelización, participación de mercado, entre otros. Por ejemplo, una empresa de educación virtual puede usar como KPIs el porcentaje de estudiantes que completan el curso, comparado con los inscritos. 
+        p.mb-0 Los indicadores clave de desempeño (<em>KPIs</em>) son métricas específicas que permiten evaluar el cumplimiento de los objetivos estratégicos, según Chaffey & Ellis-Chadwick (2019), un <em>KPIs</em> debe ser relevante, medible, accionable y alineado con el propósito de la acción. En mercadeo, algunos <em>KPIs</em> comunes incluyen: tasa de conversión, alcance digital, retorno sobre inversión (ROI), tasa de fidelización, participación de mercado, entre otros. Por ejemplo, una empresa de educación virtual puede usar como <em>KPIs</em> el porcentaje de estudiantes que completan el curso, comparado con los inscritos. 
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-10.col-xl-9
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3.
-          span Ejemplos de KPIs aplicados a acciones de mercadeo
+          span Ejemplos de <em>KPIs</em> aplicados a acciones de mercadeo
         img.mb-2.d-sm-none(data-aos="fade-up", src='@/assets/curso/temas/tema3/3-mob.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src='@/assets/curso/temas/tema3/3.svg', alt='La figura muestra cuatro ejemplos de KPIs aplicados a acciones de mercadeo.')
         figcaption <strong>Fuente:</strong> Adaptado de Chaffey & Ellis-Chadwick, 2019.
@@ -70,7 +70,7 @@
               img(data-aos="fade-down")(src="@/assets/curso/temas/tema3/6.png", alt="Imagen decorativa")
           .crd_hover_txt--body.bg-color-primario-p5
             h4.mb-4.text-center Tableros de control
-            p.text-center Visualizan KPIs en tiempo real, facilitando la toma de decisiones.
+            p.text-center Visualizan <em>KPIs</em> en tiempo real, facilitando la toma de decisiones.
 
       .col-sm-6.col-xl-3
         .crd_hover_txt(data-aos="flip-left")
@@ -137,7 +137,7 @@
                   | Informe de resultados por canal.
                 li.d-flex
                   i.fa-solid.fa-circle-check
-                  | Matriz de cumplimiento de KPIs.
+                  | Matriz de cumplimiento de <em>KPIs</em>.
                 li.d-flex
                   i.fa-solid.fa-circle-check
                   | Reporte de desviaciones y ajustes.
@@ -152,14 +152,14 @@
 
     .titulo-sexto.color-acento-contenido.z-2
       h5 Tabla 4.
-      span Ejemplo de matriz de cumplimiento de KPIs
+      span Ejemplo de matriz de cumplimiento de <em>KPIs</em>
     .tabla-a.color-secundario.z-2.mb-5
       table
         caption <strong>Fuente:</strong> SENA, 2025.
         thead(style="background-color: #FFF3EF;")
           tr
             th Acción de mercadeo
-            th KPI esperado
+            th <em>KPI</em> esperado
             th Resultado obtenido
             th Desviación
             th Observaciones

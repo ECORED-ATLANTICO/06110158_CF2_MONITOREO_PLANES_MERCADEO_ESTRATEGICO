@@ -138,7 +138,7 @@
         .tarjeta-avatar.p-2.mb-4.mb-xl-0
           img(src='@/assets/curso/temas/tema1/13.png', alt='imagen decorativa')
           .tarjeta.pt-5.mt-3.shadow.p-4
-            h5.mt-5.mb-4.pt-4.text-center Indicadores clave de desempeño (KPIs)
+            h5.mt-5.mb-4.pt-4.text-center Indicadores clave de desempeño (<em>KPIs</em>)
             p.text-center Métricas que reflejan el cumplimiento de objetivos.
       .col-md-6.col-xl-3   
         .tarjeta-avatar.p-2.mb-4.mb-xl-0
@@ -154,7 +154,7 @@
             p.text-center Permiten visualizar el desempeño frente a metas o competidores.
 
     .cajon.color-acento-contenido.p-4.mb-5
-      p.mb-0 Cada técnica tiene características particulares. Las encuestas son versátiles y accesibles, los KPIs son precisos y estratégicos, la analítica digital es inmediata y detallada, y las matrices ofrecen una visión comparativa clara.
+      p.mb-0 Cada técnica tiene características particulares. Las encuestas son versátiles y accesibles, los <em>KPIs</em> son precisos y estratégicos, la analítica digital es inmediata y detallada, y las matrices ofrecen una visión comparativa clara.
 
     .row.justify-content-center.z-2.mb-5
       .col-xl-10

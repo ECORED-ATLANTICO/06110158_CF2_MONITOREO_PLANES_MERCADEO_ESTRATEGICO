@@ -308,7 +308,7 @@ export default {
         'Variable cuantitativa o cualitativa que permite medir el avance, impacto o eficiencia de una acción de mercadeo.',
     },
     {
-      termino: 'KPIs (<em>Key Performance Indicator</em>)',
+      termino: '<em>KPIs</em> (<em>Key Performance Indicator</em>)',
       significado:
         'Indicador clave de rendimiento que refleja el éxito de una estrategia o actividad específica.',
     },

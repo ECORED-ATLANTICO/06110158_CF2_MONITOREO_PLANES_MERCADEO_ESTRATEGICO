@@ -55,7 +55,7 @@
       .bloque-texto-g__texto.p-4
         p Los formatos ejecutivos son plantillas estructuradas que permiten resumir las propuestas de mejora de forma clara, concisa y profesional, estos formatos facilitan la revisión, aprobación y seguimiento de las acciones por parte de los responsables, deben incluir campos como: nombre de la acción, objetivo, diagnóstico, justificación, recursos, responsables, cronograma y métricas de evaluación, además, deben ser accesibles, editables y adaptables a distintos contextos. 
 
-    p.mb-5.z-2 Elementos del formato ejecutivo
+    p.mb-5.z-2 <strong>Elementos del formato ejecutivo</strong>
 
     .row.justify-content-center.align-items-center.z-2.mb-5.factores-slider
       .col-lg-5.d-none.d-lg-block
@@ -84,7 +84,7 @@
               p Asigna claramente quién liderará la implementación, esto facilita el seguimiento, la rendición de cuentas y la articulación con otros equipos.
             .tarjeta.p-4.py-lg-5
               h4 Indicador de seguimiento
-              p Define cómo se medirá el éxito de la acción, debe ser un KPIs relevante, medible y alineado con el objetivo propuesto.
+              p Define cómo se medirá el éxito de la acción, debe ser un <em>KPIs</em> relevante, medible y alineado con el objetivo propuesto.
 
         .p-4.bg-color-secundario-s10.rounded-3.mt-4
           .d-flex.align-items-center.justify-content-around
@@ -169,7 +169,7 @@
             .col-lg-11
               p.bloque-texto-f__texto Documentar es dar forma al compromiso. Cada propuesta escrita con claridad y propósito es una promesa de mejora que honra el trabajo en equipo.
 
-    p.mb-5 Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el podcast complementario que acompaña este capítulo, donde se exploran diferentes maneras de presentar y ajustar propuestas de mejora.
+    p.mb-5 Para profundizar en estas prácticas y escuchar experiencias reales de narradores digitales, se invita al aprendiz a escuchar el pódcast complementario que acompaña este capítulo, donde se exploran diferentes maneras de presentar y ajustar propuestas de mejora.
 
     .row.justify-content-center
       .col-lg-10.col-xl-8

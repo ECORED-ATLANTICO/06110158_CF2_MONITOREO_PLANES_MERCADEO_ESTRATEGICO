@@ -51,7 +51,7 @@ export default {
         {
           id: 2,
           texto:
-            'Los KPIs cualitativos se expresan exclusivamente en porcentajes y cifras.',
+            'Los <em>KPIs</em> cualitativos se expresan exclusivamente en porcentajes y cifras.',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -189,7 +189,7 @@ export default {
         {
           id: 8,
           texto:
-            'Los formatos de evaluación permiten registrar y analizar el cumplimiento de KPIs.',
+            'Los formatos de evaluación permiten registrar y analizar el cumplimiento de <em>KPIs</em>.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

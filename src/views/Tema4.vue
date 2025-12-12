@@ -16,7 +16,7 @@
 
     Separador
     #t_4_1(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
-      h3 4.1 Tipos de acciones
+      h3 4.1 Comparación con metas establecidas
 
     p.mb-5 La comparación entre los resultados obtenidos y las metas definidas permite evaluar el grado de cumplimiento de las acciones de mercadeo, este análisis debe considerar el contexto, la temporalidad y los indicadores seleccionados.
 
@@ -72,7 +72,7 @@
         .p-4.p-lg-0.bg-box.rounded-4
           .row.align-items-center.justify-content-center
             .col-lg-9
-              p.mb-0 Por ejemplo, si una empresa de ropa detecta que su campaña en Instagram genera más conversiones que en Facebook, puede decidir enfocar sus esfuerzos en ese canal, optimizando recursos y resultados.
+              p.mb-0 <strong>Ejemplo aplicado:</strong> una empresa de servicios financieros lanza una campaña de referidos con meta de 200 nuevos clientes. Obtiene solo 120. Al analizar la desviación, se identifica que el incentivo no era suficientemente atractivo, se rediseña la oferta y en la siguiente fase se alcanzan 250 referidos.
             .d-none.d-lg-block.col-lg-2
               figure
                 img(src="@/assets/curso/temas/tema4/2.png" alt="Imagen ilustrativa" data-aos="fade-up")
@@ -112,10 +112,10 @@
 
     .fullwidth-bg.fullwidth-bg--2
     Separador
-    #t_4_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido
+    #t_4_3(data-aos='zoom-in-right').titulo-segundo.color-acento-contenido.z-2
       h3 4.3 Técnicas de comunicación de hallazgos
 
-    p.mb-5 Comunicar los hallazgos del monitoreo es clave para que los equipos comprendan, actúen y mejoren, las técnicas más efectivas incluyen:
+    p.mb-5.z-2 Comunicar los hallazgos del monitoreo es clave para que los equipos comprendan, actúen y mejoren, las técnicas más efectivas incluyen:
 
     .row.justify-content-center.align-items-center.z-2.mb-5
       .col-lg-8.col-xl-6
@@ -135,7 +135,7 @@
         caption <strong>Fuente:</strong> SENA, 2025.
         thead(style="background-color: #FFF3EF;")
           tr
-            th KPI
+            th <em>KPI</em>
             th Resultado obtenido
             th Meta esperada
             th Semáforo

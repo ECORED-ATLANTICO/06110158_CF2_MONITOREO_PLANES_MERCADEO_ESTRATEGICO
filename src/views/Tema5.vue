@@ -49,7 +49,7 @@
               figure
                 img.w-89(src="@/assets/curso/temas/tema3/12.svg" alt="Imagen ilustrativa" data-aos="fade-up")
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5.z-2
       .col-xl-10
         .p-4.p-lg-0.bg-box.rounded-4
           .row.align-items-center.justify-content-center
@@ -76,19 +76,19 @@
           tr
             td <strong>Campaña en Instagram.</strong>
             td 4.200 interacciones
-            td 12 %
+            td 5.000
             td Bajo <em>engagement</em>.
             td Segmentación genérica.
           tr
             td <strong><em>Email marketing.</em></strong>
             td 18 % apertura
-            td $ 5.000.000
+            td 15 %
             td Buen desempeño.
             td Asunto atractivo y personalizado.
           tr
             td <strong>Evento presencial.</strong>
             td 85 asistentes
-            td 3.000
+            td 100
             td Baja asistencia.
             td Difusión limitada.
 
@@ -132,7 +132,7 @@
         .p-4.p-lg-0.bg-box.rounded-4
           .row.align-items-center.justify-content-center
             .col-lg-9
-              p.mb-0 <strong>Ejemplo aplicado</strong>. Tras detectar baja conversión en su <em>landing page</em>, una empresa de tecnología decide rediseñar el contenido, incluir testimonios de clientes y simplificar el formulario de registro, en la siguiente campaña, la tasa de conversión aumenta un 35 %.
+              p.mb-0 <strong>Ejemplo aplicado</strong>: tras detectar baja conversión en su <em>landing page</em>, una empresa de tecnología decide rediseñar el contenido, incluir testimonios de clientes y simplificar el formulario de registro, en la siguiente campaña, la tasa de conversión aumenta un 35 %.
             .d-none.d-lg-block.col-lg-2
               figure
                 img(src="@/assets/curso/temas/tema5/8.png" alt="Imagen ilustrativa" data-aos="fade-up")
