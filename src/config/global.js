@@ -403,7 +403,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Andrés Felipe Herrera Roldán',
+          nombre: 'Andrés Felipe Herrera',
           cargo: 'Diseñador <i>web</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
